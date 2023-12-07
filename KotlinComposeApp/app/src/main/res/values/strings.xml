@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HavaDurumu</string>
+    <string name="degree">%s °C</string>
+    <string name="sunny">Güneşli</string>
+    <string name="partial_cloud">Parçalı Bulutlu</string>
+    <string name="rainy">Yağmurlu</string>
+</resources>
