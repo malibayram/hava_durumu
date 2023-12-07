@@ -40,7 +40,6 @@ val weatherIconState: MutableIntState = mutableIntStateOf(R.drawable.sun)
 val weatherState: MutableIntState = mutableIntStateOf(R.string.sunny)
 
 class MainActivity : ComponentActivity() {
-
     private val retrofit =
         Retrofit.Builder().addConverterFactory(GsonConverterFactory.create())
             .baseUrl("https://api.open-meteo.com/v1/")
