@@ -19,7 +19,8 @@ Son derece basit bir işlevi olacak uygulamadan beklenen şey, kullanıcının b
 
 ## Uygulamanın Kodlanması İçin Kullanılacak Teknolojiler
 
-- Native Android (Kotlin) -Arayüz Jetpack Compose ile kodlanacak-
+- [Native Android (Kotlin) -Arayüz Jetpack Compose ile kodlanacak-](https://github.com/malibayram/hava_durumu/tree/android-kotlin-compose)
+- [Native Android (Kotlin) -Arayüz için XML kullanılacak-](https://github.com/malibayram/hava_durumu/tree/android-kotlin-xml)
 - Flutter (Test Driven Development ile kodlanacak)
 - Angular
 - React
