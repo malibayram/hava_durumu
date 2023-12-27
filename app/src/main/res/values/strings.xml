@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="_20_jun_2022">20 Jun 2022</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="biarritz_fr">Biarritz, FR</string>
+    <string name="sun_icon">sun icon</string>
+    <string name="temperature">%s °C</string>
+    <string name="sunny">Güneşli</string>
+    <string name="partial_cloud">Parçalı Bulutlu</string>
+    <string name="rainy">Yağmurlu</string>
+</resources>
